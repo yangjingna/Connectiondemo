@@ -1,0 +1,12 @@
+/**
+ * 用户中心 - 我的提问
+ */
+
+export default function UserMyQuestions() {
+  return (
+    <div className="p-6">
+      <h1 className="text-3xl font-bold text-gray-900">我的提问</h1>
+      <p className="text-gray-600 mt-2">我的提问页面 - 待开发</p>
+    </div>
+  );
+}
